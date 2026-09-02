@@ -1,0 +1,27 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+
+# Temporary Office Lock Files
+~$*.xlsx
+~$*.docx
+~$*.pptx
